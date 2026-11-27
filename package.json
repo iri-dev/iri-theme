@@ -1,0 +1,75 @@
+{
+  "name": "iri-theme",
+  "displayName": "iri theme",
+  "description": "A dark rose & violet theme for VS Code: deep purple surfaces, pink accents and soft pastel syntax colours.",
+  "version": "1.6.3",
+  "publisher": "iri-dev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iri-dev/iri-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color theme",
+    "dark",
+    "dark theme",
+    "pink",
+    "rose",
+    "purple",
+    "violet",
+    "pastel"
+  ],
+  "icon": "assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "iri theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/iri-theme-color-theme.json",
+        "id": "iri-theme"
+      }
+    ],
+    "configurationDefaults": {
+      "editor.scrollbar.horizontalScrollbarSize": 8,
+      "terminal.integrated.cursorStyle": "line",
+      "terminal.integrated.cursorWidth": 2,
+      "editor.cursorStyle": "line",
+      "workbench.colorCustomizations": {
+        "[iri-theme]": {
+          "modernEditorTab.activeBackground": "#422544",
+          "tab.activeBackground": "#422544",
+          "activityBar.foreground": "#FF91D9",
+          "activityBar.activeBackground": "#21172D",
+          "activityBar.activeBorder": "#BD629C",
+          "activityBar.activeFocusBorder": "#BD629C",
+          "modernActivityBarItem.activeBackground": "#21172D",
+          "modernActivityBarItem.activeForeground": "#FF91D9",
+          "modernActivityBarItem.hoverBackground": "#422544",
+          "modernActivityBarItem.hoverForeground": "#FF91D9",
+          "panelTitle.activeForeground": "#FFE4F5",
+          "panelTitle.activeBorder": "#FF59CB",
+          "modernTab.activeBackground": "#422544",
+          "modernTab.activeForeground": "#FFE4F5",
+          "modernTab.hoverBackground": "#30213F",
+          "modernTab.hoverForeground": "#F5EDFF",
+          "activityBar.inactiveForeground": "#826B94",
+          "activityBarTop.inactiveForeground": "#AC9CBB",
+          "icon.foreground": "#AC9CBB",
+          "titleBar.activeForeground": "#F5EDFF",
+          "titleBar.inactiveForeground": "#AC9CBB",
+          "toolbar.hoverBackground": "#422544",
+          "toolbar.activeBackground": "#603052",
+          "toolbar.hoverOutline": "#BD629C"
+        }
+      },
+      "workbench.experimental.modernUIEditorTabStyle": "pill"
+    }
+  }
+}
