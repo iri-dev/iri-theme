@@ -1,3 +1,7 @@
-.git/
+.git/**
 .gitignore
+.vscodeignore
 *.vsix
+marketplace/**
+assets/**
+!assets/icon.png
