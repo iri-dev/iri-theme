@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/badge/Download-.vsix-FF59CB?style=for-the-badge" alt="Download the .vsix"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=iri-dev.iri-theme"><img src="https://img.shields.io/badge/Install-VS%20Code%20Marketplace-FF59CB?style=for-the-badge" alt="Install from the VS Code Marketplace"></a>
   <img src="https://img.shields.io/badge/VS%20Code-1.80%2B-9B6BFF?style=for-the-badge" alt="Works with VS Code 1.80 and newer">
   <img src="https://img.shields.io/badge/Free-and%20staying%20free-BB86FC?style=for-the-badge" alt="Free, and staying free">
 </p>
@@ -259,14 +259,10 @@ Prefer something different? Your own settings always take priority, so you can c
 
 ## Try It
 
-1. Download **`iri-theme-1.6.3.vsix`** from the [latest release](../../releases/latest).
-2. Install it in VS Code in either of these ways:
-   - Extensions view → `…` menu → **Install from VSIX…**
-   - or from a terminal:
-     ```
-     code --install-extension iri-theme-1.6.3.vsix
-     ```
-3. Press `Ctrl+K` `Ctrl+T` (`Cmd+K` `Cmd+T` on macOS) and pick **iri theme**.
+1. In VS Code, open the Extensions view (`Ctrl+Shift+X`), search for **iri theme** and click **Install**. You can also install it from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=iri-dev.iri-theme).
+2. Press `Ctrl+K` `Ctrl+T` (`Cmd+K` `Cmd+T` on macOS) and pick **iri theme**.
+
+Prefer a file? Download **`iri-theme-1.6.3.vsix`** from the [latest release](../../releases/latest), then in the Extensions view open the `…` menu and choose **Install from VSIX…**.
 
 <details>
 <summary><b>Good to know</b></summary>
