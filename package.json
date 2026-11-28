@@ -1,8 +1,8 @@
 {
   "name": "iri-theme",
   "displayName": "iri theme",
-  "description": "My own custom theme for VS Code. Deep violet everywhere, pink wherever you interact, and soft pastel syntax colours.",
-  "version": "1.6.4",
+  "description": "My own custom purple and pink theme for VS Code. Deep violet everywhere, pink wherever you interact, and soft pastel syntax colours.",
+  "version": "1.6.5",
   "publisher": "iri-dev",
   "license": "MIT",
   "repository": {
@@ -24,9 +24,23 @@
     "rose",
     "purple",
     "violet",
-    "pastel"
+    "pastel",
+    "purple theme",
+    "pink theme",
+    "violet theme",
+    "pastel theme",
+    "dark purple",
+    "lavender",
+    "magenta",
+    "sakura",
+    "aesthetic",
+    "cozy"
   ],
   "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#171021",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {

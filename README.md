@@ -274,7 +274,7 @@ Prefer something different? Your own settings always take priority, so you can c
 1. In VS Code, open the Extensions view (`Ctrl+Shift+X`), search for **iri theme** and click **Install**. You can also install it from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=iri-dev.iri-theme).
 2. Press `Ctrl+K` `Ctrl+T` (`Cmd+K` `Cmd+T` on macOS) and pick **iri theme**.
 
-Prefer a file? Download **`iri-theme-1.6.4.vsix`** from the [latest release](../../releases/latest), then in the Extensions view open the `…` menu and choose **Install from VSIX…**.
+Prefer a file? Download **`iri-theme-1.6.5.vsix`** from the [latest release](../../releases/latest), then in the Extensions view open the `…` menu and choose **Install from VSIX…**.
 
 <details>
 <summary><b>Good to know</b></summary>
