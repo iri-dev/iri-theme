@@ -30,6 +30,18 @@ Pink buttons to open or clone a project, a pink Sign In button, and soft violet 
 
 ![Welcome screen](https://raw.githubusercontent.com/iri-dev/iri-theme/main/assets/screenshots/tour/welcome.png)
 
+### Sidebar icons that glow
+
+Hover over any icon in the sidebar and it lights up pink on a deep rose tile. The one you're using stays pink.
+
+![Sidebar icons lighting up pink on hover](https://raw.githubusercontent.com/iri-dev/iri-theme/main/assets/screenshots/tour/sidebar-hover.png)
+
+### The Extensions view
+
+Pink Install buttons, a pink outline on the search box and pink badges, so even browsing for extensions feels like part of the theme.
+
+<p align="center"><img src="https://raw.githubusercontent.com/iri-dev/iri-theme/main/assets/screenshots/tour/extensions-view.png" alt="Extensions view with pink Install buttons" width="480"></p>
+
 ### Menus that bloom
 
 Plum menus with a rose border. Hover any item and it blushes berry.

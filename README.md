@@ -48,6 +48,18 @@ The first thing you see. Pink buttons to open or clone a project, a pink Sign In
 
 <p align="center"><img src="assets/screenshots/tour/welcome.png" alt="VS Code Welcome screen in iri theme"></p>
 
+### Sidebar icons that glow
+
+Hover over any icon in the sidebar and it lights up pink on a deep rose tile. The one you're using stays pink, so you always know where you are.
+
+<p align="center"><img src="assets/screenshots/tour/sidebar-hover.png" alt="Sidebar icons lighting up pink one by one on hover"></p>
+
+### The Extensions view
+
+Pink Install buttons, a pink outline on the search box and pink badges, so even browsing for extensions feels like part of the theme.
+
+<p align="center"><img src="assets/screenshots/tour/extensions-view.png" alt="Extensions view with pink Install buttons" width="480"></p>
+
 ### Menus that bloom
 
 Plum menus with a rose border. Hover any item and it blushes berry.
@@ -262,7 +274,7 @@ Prefer something different? Your own settings always take priority, so you can c
 1. In VS Code, open the Extensions view (`Ctrl+Shift+X`), search for **iri theme** and click **Install**. You can also install it from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=iri-dev.iri-theme).
 2. Press `Ctrl+K` `Ctrl+T` (`Cmd+K` `Cmd+T` on macOS) and pick **iri theme**.
 
-Prefer a file? Download **`iri-theme-1.6.3.vsix`** from the [latest release](../../releases/latest), then in the Extensions view open the `…` menu and choose **Install from VSIX…**.
+Prefer a file? Download **`iri-theme-1.6.4.vsix`** from the [latest release](../../releases/latest), then in the Extensions view open the `…` menu and choose **Install from VSIX…**.
 
 <details>
 <summary><b>Good to know</b></summary>
